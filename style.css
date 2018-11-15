@@ -1,0 +1,16 @@
+html{
+  min-height: 100 vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.wrapper{
+  padding: 20px;
+  max-width: 500px;
+  background: rgb(255,255,255, 0.95);
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.5);
+  
+}
